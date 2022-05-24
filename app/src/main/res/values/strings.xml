@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">section030205</string>
+    <string name="spn0s_prompt">OSを選択してください</string>
+    <string-array name="spn0s_items">
+        <item>Windows</item>
+        <item>Linux</item>
+        <item>macOS</item>
+    </string-array>
+</resources>
